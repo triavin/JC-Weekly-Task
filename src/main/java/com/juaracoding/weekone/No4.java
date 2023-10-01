@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class No4 {
     public static void main(String[] args) {
-        // deklarasi variabel hari dan harga
+        // deklarasi variabel angka
         int angka;
 
         // Membuat scanner intuk input nilai
